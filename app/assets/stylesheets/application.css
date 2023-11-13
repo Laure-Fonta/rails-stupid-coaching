@@ -13,3 +13,14 @@
  *= require_tree .
  *= require_self
  */
+ container {
+  width: 500px;
+ }
+
+ .answer{
+  background-color: blueviolet;
+  filter: alpha(opacity=80)
+  color: black
+  border-radius: 8px
+
+ }
